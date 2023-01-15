@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1280"
+   height="640"
+   viewBox="0 0 338.66666 169.33334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="NAScontrol.svg"
+   inkscape:export-filename="H:\kicad\nascontrol-remote\images\nascontrol.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <title
+     id="title867">NAScontrol Logo</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="161.40124"
+     inkscape:cy="298.28239"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="3125"
+     inkscape:window-height="1848"
+     inkscape:window-x="415"
+     inkscape:window-y="134"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>NAScontrol Logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="15.003185"
+       y="153.97398"
+       id="text835"><tspan
+         sodipodi:role="line"
+         id="tspan833"
+         x="15.003185"
+         y="153.97398"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:Nasalization;-inkscape-font-specification:'Nasalization, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">NAScontrol</tspan></text>
+    <g
+       id="g891">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:2.33376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect837"
+         width="57.666241"
+         height="87.666245"
+         x="31.166876"
+         y="16.166876" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.222273;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path839"
+         cx="42.5"
+         cy="27.5"
+         rx="2.3888636"
+         ry="2.3888633" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.222273;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path839-1"
+         cx="77.5"
+         cy="27.5"
+         rx="2.3888636"
+         ry="2.3888633" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0885799;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path861"
+         cx="59"
+         cy="59"
+         rx="3.9557099"
+         ry="3.9557102"
+         inkscape:transform-center-y="7.9114185" />
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path863"
+         cx="60"
+         cy="60"
+         r="19.944416" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2.00000006;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         d="M 40,90 C 71.617986,90 80,80 80,80 v 20 H 40 Z"
+         id="path865"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       id="g891-1"
+       transform="translate(75.338197,0.52916667)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:2.33376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect837-7"
+         width="57.666241"
+         height="87.666245"
+         x="31.166876"
+         y="16.166876" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.222273;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path839-6"
+         cx="42.5"
+         cy="27.5"
+         rx="2.3888636"
+         ry="2.3888633" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.222273;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path839-1-4"
+         cx="77.5"
+         cy="27.5"
+         rx="2.3888636"
+         ry="2.3888633" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0885799;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path861-8"
+         cx="59"
+         cy="59"
+         rx="3.9557099"
+         ry="3.9557102"
+         inkscape:transform-center-y="7.9114185" />
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path863-1"
+         cx="60"
+         cy="60"
+         r="19.944416" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 40,90 C 71.617986,90 80,80 80,80 v 20 H 40 Z"
+         id="path865-2"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       id="g891-1-0"
+       transform="translate(150.67639,0.32500334)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:2.33376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect837-7-3"
+         width="57.666241"
+         height="87.666245"
+         x="31.166876"
+         y="16.166876" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.222273;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path839-6-6"
+         cx="42.5"
+         cy="27.5"
+         rx="2.3888636"
+         ry="2.3888633" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.222273;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path839-1-4-6"
+         cx="77.5"
+         cy="27.5"
+         rx="2.3888636"
+         ry="2.3888633" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0885799;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path861-8-6"
+         cx="59"
+         cy="59"
+         rx="3.9557099"
+         ry="3.9557102"
+         inkscape:transform-center-y="7.9114185" />
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path863-1-7"
+         cx="60"
+         cy="60"
+         r="19.944416" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 40,90 C 71.617986,90 80,80 80,80 v 20 H 40 Z"
+         id="path865-2-2"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       id="g891-1-0-0"
+       transform="translate(226.01458)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:2.33376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect837-7-3-2"
+         width="57.666241"
+         height="87.666245"
+         x="31.166876"
+         y="16.166876" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.222273;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path839-6-6-8"
+         cx="42.5"
+         cy="27.5"
+         rx="2.3888636"
+         ry="2.3888633" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.222273;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path839-1-4-6-9"
+         cx="77.5"
+         cy="27.5"
+         rx="2.3888636"
+         ry="2.3888633" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0885799;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path861-8-6-4"
+         cx="59"
+         cy="59"
+         rx="3.9557099"
+         ry="3.9557102"
+         inkscape:transform-center-y="7.9114185" />
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path863-1-7-0"
+         cx="60"
+         cy="60"
+         r="19.944416" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 40,90 C 71.617986,90 80,80 80,80 v 20 H 40 Z"
+         id="path865-2-2-7"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+  </g>
+</svg>

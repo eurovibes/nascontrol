@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "WPMDH1100xx1S")(type "KiCad")(uri "${KIPRJMOD}/WPMDH1100xx1S.pretty")(options "")(descr ""))
+  (lib (name "RJ45")(type "KiCad")(uri "${KIPRJMOD}/RJ45.pretty")(options "")(descr ""))
+  (lib (name "eurovibes")(type "KiCad")(uri "${KIPRJMOD}/eurovibes.pretty")(options "")(descr ""))
+)

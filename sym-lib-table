@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "MCU_ST_STM32G4")(type "KiCad")(uri "${KIPRJMOD}/kicad-symbols/MCU_ST_STM32G4.kicad_sym")(options "")(descr ""))
+  (lib (name "PCA9535PW")(type "KiCad")(uri "${KIPRJMOD}/PCA9535PW.kicad_sym")(options "")(descr ""))
+  (lib (name "WPMHD1100xx1S")(type "KiCad")(uri "${KIPRJMOD}/WPMHD1100xx1S.kicad_sym")(options "")(descr ""))
+)

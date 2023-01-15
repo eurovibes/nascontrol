@@ -1,0 +1,15 @@
+# KiCad 
+*.bak
+*.bck
+*cache.lib 
+*.kicad_pcb-bak
+*.sch-bak
+*-backups/
+
+bpi-r2pro-testbox.net
+fp-info-cache
+
+# other backup files
+*~
+\#*#
+
