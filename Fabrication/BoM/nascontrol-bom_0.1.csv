@@ -1,0 +1,63 @@
+Row,References,Part,Value,P/N,Manufacture,Source,Supplier P/N,Link,Footprint,Description,Quantity Per PCB
+1,C213 C214,C,10 pF,CL05C100JB5NNNC,Samsung Electro-Mechanics,,,https://jlcpcb.com/partdetail/33914-CL05C100JB5NNNC/C32949,C_0402_1005Metric,50V 10pF C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,2
+2,C211 C212,C,20 pF,0402CG200J500NT,FH (Guangdong Fenghua Advanced Tech),,,https://jlcpcb.com/partdetail/Yageo-CC0805KRX7R9BB221/C107145,C_0402_1005Metric,50V 20pF C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,2
+3,C201 C205 C206 C207 C208 C209 C210 C215 C403 C404 C405 C406 C407 C408 C503,C,100 nF,CL05B104KB54PNC,Samsung Electro-Mechanics,,,https://jlcpcb.com/partdetail/291005-CL05B104KB54PNC/C307331,C_0402_1005Metric,50V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,15
+4,C401 C402,C,1 µF,CL21B105KBFNNNE,Samsung Electro-Mechanics,,,https://jlcpcb.com/partdetail/29074-CL21B105KBFNNNE/C28323,C_0805_2012Metric,50V 1uF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,2
+5,C501,C_Polarized,10 µF,RVT1H100M0505,ROQANG,,,https://jlcpcb.com/partdetail/Roqang-RVT1H100M0505/C72487,CP_Elec_5x5.4,"-45℃~+105℃ 2000hrs@105℃ 10uF 5.4mm 50V 5mm ±20% SMD,D5xL5.4mm Aluminum Electrolytic Capacitors - SMD ROHS",1
+6,C502,C_Polarized,22 µF,RVT1H220M0605,ROQANG,,,https://jlcpcb.com/partdetail/Roqang-RVT1H220M0605/C72505,CP_Elec_6.3x5.4,"-45℃~+105℃ 2000hrs@105℃ 22uF 5.4mm 50V 6.3mm ±20% SMD,D6.3xL5.4mm Aluminum Electrolytic Capacitors - SMD ROHS",1
+7,C202 C203 C204,C_Polarized,1 F,SCV0001C0-003R0LTZ,SPSCAP,,,https://www.tme.eu/en/details/scv1f-3.0v-ltz/supercapacitors/spscap/scv0001c0-003r0ltz/,CP_Radial_D8.0mm_P3.50mm,Supercapacitor; 1F; 3VDC; Body dim: Ø8x12mm; Pitch: 3.5mm; Ir: 5uA,3
+8,D201 D501 D502,1N4148WS,1N4148WS,1N4148WS,"Jiangsu Changjing Electronics Technology Co., Ltd.",,,https://jlcpcb.com/partdetail/2485-1N4148WS/C2128,D_SOD-323,100V +150℃@(Tj) 200mW Single 1.25V@150mA 4ns 1uA@75V 150mA SOD-323 Switching Diode ROHS,3
+9,D202 D203 D204 D205 D206 D207,ESD9B3.3ST5G,ESD9B3.3ST5G,ESD9B3.3ST5G,onsemi,,,https://jlcpcb.com/partdetail/Onsemi-ESD9B33ST5G/C96512,D_SOD-923,11.5V 2A 3.3V (Max) 5V Bidirectional SOD-923 ESD Protection Devices ROHS,6
+10,D401,LED,LED,19-217/GHC-YR1S2/3T,Everlight Elec,,,https://jlcpcb.com/partdetail/EverlightElec-19_217_GHC_YR1S23T/C72043,LED_0603_1608Metric,20mA 518nm Colorless transparence -40℃~+85℃ 520nm~535nm Emerald 120° 110mW 0603 Light Emitting Diodes (LED) ROHS,1
+11,D402,NUP2105L,NUP2105L,NUP2105LT1G,TECH PUBLIC,,,https://jlcpcb.com/partdetail/TechPublic-NUP2105LT1G/C2890118,SOT-23,SOT-23 ESD Protection Devices ROHS,1
+12,D101 D102,LED,PWR,N/A,,,,,SolderWire-0.75sqmm_1x02_P4.8mm_D1.25mm_OD2.3mm,Light emitting diode,2
+13,D301 D302 D303 D304,ZMMxx,ZMM3V3,ZMM3V3-M,ST(Semtech),,,https://jlcpcb.com/partdetail/st_semtech-ZMM3V3M/C8056,D_MiniMELF,"2uA@1V 85Ω Single 3.1V~3.5V 500mW 3.3V MEFL,1.5x3.4mm Zener Diodes ROHS",4
+14,H101 H102 H103 H104 H501 H502 H503 H504,MountingHole_Pad,~,N/A,,,,,MountingHole_3.2mm_M3_Pad,Mounting Hole with connection,8
+15,J101 J401,USB_B,IN,TUEB4F2D0B,Amphenol Communications Solutions,,,https://www.tme.eu/de/details/tueb4f2d0b/usb-und-ieee1394-steckverbinder/amphenol-communications-solutions/,USB_B_Lumberg_2411_02_Horizontal,Buchse; USB B; auf PCB; THT; 90°-Winkel; 2.0; vergoldet,2
+16,J201,Micro_SD_Card_Det,Micro_SD_Card_Det,1040310811,MOLEX,,,https://jlcpcb.com/partdetail/Molex-1040310811/C585350,microSD_HC_Molex_104031-0811,1.42mm Deck MicroSD card (TF card) Pluggable SMD SD Card Connectors ROHS,1
+17,J402,DB9_Male_MountingHoles,Modem,DE09-PL-24,ADAM TECH,,,https://www.tme.eu/en/details/de09-pl-24/d-sub-plugs-and-sockets/adam-tech/,DSUB-9_Male_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm,D-Sub; PIN: 9; socket; male; angled 90°; THT; UNC4-40; 5A; 20mΩ,1
+18,J501 J502 J503,Conn_01x03,PWR IN,N/A,,,,,SolderWire-1.5sqmm_1x03_P6mm_D1.7mm_OD3mm_Relief,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",3
+19,J202,Conn_02x03_Odd_Even,SWD,TC2030,Tag-Connect,,,,Tag-Connect_TC2030-IDC-FP_2x03_P1.27mm_Vertical,Tag-Connect TC2030 connector,1
+20,J102,RJ45_Shielded,control,6339160-1,TE Connectivity,,,https://jlcpcb.com/partdetail/TeConnectivity-63391601/C125076,MTJ-88GX1-FSD-PG6,RJ45 RJReceptacle 1 Internal oscillator included cat5 Without LED SMD Ethernet Connectors/Modular Connectors (RJ45 RJ11) ROHS,1
+21,JP201,SolderJumper_2_Open,BOOT0,N/A,,,,,SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm,"Solder Jumper, 2-pole, open",1
+22,JP501 JP502,SolderJumper_2_Bridged,USB-GND,N/A,,,,,SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm,"Solder Jumper, 2-pole, closed/bridged",2
+23,K501 K502,RM84,RM84,RM84-2012-35-1012,RELPOL,,,https://www.tme.eu/de/details/rm84-2012-35-1012/elektromagnetische-mini-relais/relpol/,Relay_DPDT_Finder_40.52,Relais: elektromagnetisch; DPDT; USpule : 12VDC; 8A; 8A/250VAC,2
+24,PS501,IRM-05-12,IRM-05-12,IRM-05-12,MEAN WELL,,,https://www.tme.eu/de/details/irm-05-12/einbau-netzteile/mean-well/,Converter_ACDC_MeanWell_IRM-05-xx_THT,"Impuls; Modul; 5,04W; 12VDC; 0,42A; OUT: 1; 40g; -30÷70°C",1
+25,Q301 Q302 Q303 Q304 Q305 Q306 Q501 Q502,2N7002,2N7002,2N7002,"Jiangsu Changjing Electronics Technology Co., Ltd.",,,https://jlcpcb.com/partdetail/9040-2N7002/C8545,SOT-23,"60V 115mA 200mW 7.5Ω@10V,500mA 2.5V@250uA N Channel SOT-23(SOT-23-3) MOSFETs ROHS",8
+26,R201,R,22 Ω,1206W4F220JT5E,UNI-ROYAL(Uniroyal Elec),,,https://jlcpcb.com/partdetail/18646-1206W4F220JT5E/C17958,R_1206_3216Metric,250mW Thick Film Resistors 200V ±100ppm/℃ ±1% -55℃~+155℃ 22Ω 1206 Chip Resistor - Surface Mount ROHS,1
+27,R301 R302 R303 R304 R320 R321 R501 R503,R,100 Ω,0402WGF1000TCE,UNI-ROYAL(Uniroyal Elec),,,https://jlcpcb.com/partdetail/25819-0402WGF1000TCE/C25076,R_0402_1005Metric,62.5mW Thick Film Resistors 50V ±1% ±200ppm/℃ -55℃~+155℃ 100Ω 0402 Chip Resistor - Surface Mount ROHS,8
+28,R402,R,120 Ω,1206W4F1200T5E,UNI-ROYAL(Uniroyal Elec),,,https://jlcpcb.com/partdetail/18597-1206W4F1200T5E/C17909,R_1206_3216Metric,250mW Thick Film Resistors 200V ±100ppm/℃ ±1% -55℃~+155℃ 120Ω 1206 Chip Resistor - Surface Mount ROHS,1
+29,R401,R,1 kΩ,0402WGF1001TCE,UNI-ROYAL(Uniroyal Elec),,,https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702,R_0402_1005Metric,62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% -55℃~+155℃ 1kΩ 0402 Chip Resistor - Surface Mount ROHS,1
+30,R202 R305 R306 R307 R308 R309 R310 R311 R312 R313 R314 R315 R316 R317 R318 R319 R322 R323 R502 R504,R,10 kΩ,0402WGF1002TCE,UNI-ROYAL(Uniroyal Elec),,,https://jlcpcb.com/partdetail/26487-0402WGF1002TCE/C25744,R_0402_1005Metric,62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% -55℃~+155℃ 10kΩ 0402 Chip Resistor - Surface Mount ROHS,20
+31,R205,R,100 kΩ,0402WGF1003TCE,UNI-ROYAL(Uniroyal Elec),,,https://jlcpcb.com/partdetail/26484-0402WGF1003TCE/C25741,R_0402_1005Metric,62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% -55℃~+155℃ 100kΩ 0402 Chip Resistor - Surface Mount ROHS,1
+32,R203 R204,R,1 MΩ,0402WGF1004TCE,UNI-ROYAL(Uniroyal Elec),,,https://jlcpcb.com/partdetail/26826-0402WGF1004TCE/C26083,R_0402_1005Metric,62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% -55℃~+155℃ 1MΩ 0402 Chip Resistor - Surface Mount ROHS,2
+33,SW101 SW102 SW103 SW104,SW_Push_LED,POWER1,N/A,,,,,SolderWire-0.75sqmm_1x04_P4.8mm_D1.25mm_OD2.3mm,"Push button switch with LED, generic",4
+34,SW201,SW_Push_45deg,Reset,PTS645VL58-2 LFS,C&K,,,https://www.tme.eu/de/details/pts645vl58-2/mikroschalter-tact/c-k/pts645vl58-2-lfs/,SW_Tactile_SPST_Angled_PTS645Vx58-2LFS,"Mikroschalter TACT; SPST-NO; Pos: 2; 0,05A/12VDC; abgewinkelt,THT",1
+35,U403,CH330N,CH330N,CH340N,WCH(Jiangsu Qin Heng),,,https://jlcpcb.com/partdetail/wch_jiangsu_Qin_heng-CH340N/C506813,SOIC-8_3.9x4.9mm_P1.27mm,SOP-8 USB ICs ROHS,1
+36,U405,ICL3232,ICL3232,SP3232EEY-L/TR,MaxLinear,,,https://jlcpcb.com/partdetail/Maxlinear-SP3232EEY_LTR/C13482,TSSOP-16_4.4x5mm_P0.65mm,235Kbps 3V~5.5V transceiver 2/2 TSSOP-16 RS232 ICs ROHS,1
+37,U301,PCA9535PW,PCA9535PW,"PCA9535PW,118",NXP Semicon,,,https://jlcpcb.com/partdetail/NxpSemicon-PCA9535PW118/C255606,TSSOP-24_4.4x7.8mm_P0.65mm,"400kHz 16 POR I²C, SMBus TSSOP-24 I/O Expanders ROHS",1
+38,U402,SP3485CN,SP3485CN,SP3485EN-L/TR,MaxLinear,,,https://jlcpcb.com/partdetail/Maxlinear-SP3485EN_LTR/C8963,SOIC-8_3.9x4.9mm_P1.27mm,transceiver 3.3V 10Mbps 1/1 SOIC-8_150mil RS-485/RS-422 ICs ROHS,1
+39,U202,SRV05-4,SRV05-4,SRV05-4,TECH PUBLIC,,,https://jlcpcb.com/partdetail/TechPublic-SRV054/C558418,SOT-23-6,SOT-23-6 ESD Protection Devices ROHS,1
+40,U201,STM32G474CETx,STM32G474CETx,STM32G474CET6,STMicroelectronics,,,https://jlcpcb.com/partdetail/Stmicroelectronics-STM32G474CET6/C730125,LQFP-48_7x7mm_P0.5mm,128KB 512K@x8bit 1.71V~3.6V -40℃~+85℃ ARM Cortex-M4 1@x20ch/12bit 1@x7ch/12bit 170MHz Internal oscillator included 38 LQFP-48 Microcontroller Units (MCUs/MPUs/SOCs) ROHS,1
+41,U101 U404,USBLC6-2SC6,USBLC6-2SC6,USBLC6-2SC6,TECH PUBLIC,,,https://jlcpcb.com/partdetail/TechPublic-USBLC62SC6/C2827654,SOT-23-6,SOT-23-6 ESD Protection Devices ROHS,2
+42,U501,WPMDH1100xx1S,WPMDH1100xx1S,AMSRB1-783.3JZ,AIMTEC,,,https://www.tme.eu/en/details/amsrb1-783.3jz/dc-dc-converters/aimtec/,WPMDH1100xx1S,Converter: DC/DC; 3.3W; Uin: 6÷36V; Uout: 3.3VDC; Iout: 1A; SIP3; 1.9g,1
+43,U401,XC6206PxxxMR,XC6206P332MR,XC6206P332MR,Torex Semicon,,,https://jlcpcb.com/partdetail/TorexSemicon-XC6206P332MR/C5446,SOT-23,200mA 680mV@(100mA) Fixed 3.3V~3.3V Positive 1 6V SOT-23-3L Linear Voltage Regulators (LDO) ROHS,1
+44,Y202,Crystal,32k,Q13FC1350000400,Seiko Epson,,,https://jlcpcb.com/partdetail/SeikoEpson-Q13FC1350000400/C32346,Crystal_SMD_3215-2Pin_3.2x1.5mm,32.768kHz SMD Crystal Resonator 12.5pF 70kΩ ±20ppm -40℃~+85℃ SMD3215-2P Crystals ROHS,1
+45,Y201,Crystal,8MHz,X50328MSB2GI,Yangxing Tech,,,https://jlcpcb.com/partdetail/YangxingTech-X50328MSB2GI/C115962,Crystal_SMD_5032-2Pin_5.0x3.2mm,8MHz SMD Crystal Resonator 20pF ±10ppm ±50ppm -40℃~+85℃ SMD5032-2P Crystals ROHS,1
+
+
+
+
+
+Project info:
+Schematic:,nascontrol
+Variant:,default
+Revision:,0.1
+Date:,2023-01-11
+KiCad Version:,6.0.5+dfsg-1~bpo11+1
+Statistics:
+Component Groups:,45
+Component Count:,125
+Fitted Components:,125
+Number of PCBs:,1
+Total Components:,125

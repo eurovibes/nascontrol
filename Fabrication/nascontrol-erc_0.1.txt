@@ -1,0 +1,28 @@
+ERC report (Fri Jan 20 09:08:27 2023, Encoding UTF8)
+
+***** Sheet /
+
+***** Sheet /MCU/
+[lib_symbol_issues]: Symbol 'STM32G474CETx' not found in symbol library 'MCU_ST_STM32G4'.
+    ; Severity: warning
+    @(116.84 mm, 99.06 mm): Symbol U201 [STM32G474CETx]
+
+***** Sheet /IO/
+[lib_symbol_issues]: Symbol 'ZMMxx' has been modified in library 'Diode'.
+    ; Severity: warning
+    @(154.94 mm, 95.25 mm): Symbol D302 [ZMMxx]
+[lib_symbol_issues]: Symbol 'ZMMxx' has been modified in library 'Diode'.
+    ; Severity: warning
+    @(104.14 mm, 95.25 mm): Symbol D301 [ZMMxx]
+[lib_symbol_issues]: Symbol 'ZMMxx' has been modified in library 'Diode'.
+    ; Severity: warning
+    @(256.54 mm, 95.25 mm): Symbol D304 [ZMMxx]
+[lib_symbol_issues]: Symbol 'ZMMxx' has been modified in library 'Diode'.
+    ; Severity: warning
+    @(205.74 mm, 95.25 mm): Symbol D303 [ZMMxx]
+
+***** Sheet /Serial/
+
+***** Sheet /Power/
+
+ ** ERC messages: 5  Errors 0  Warnings 5
