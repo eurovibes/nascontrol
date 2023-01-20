@@ -1,2 +1,4 @@
-*.FCStd?
+__pycache__/
 
+*.FCStd?
+*.stl
